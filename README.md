@@ -1,4 +1,4 @@
-basic-login
+Implement advanced login
 # Ruby on Rails チュートリアルのサンプルアプリケーション
 
 これは、次の教材で作られたサンプルアプリケーションです。
